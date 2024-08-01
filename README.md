@@ -89,9 +89,14 @@ enhance this project by adding more bands, improving the equalization algorithm,
 
 ## Project 3
 
-DFT and Its Properties
-Analysis of Discrete-Time Systems
-Quantization and Phase Shift (sound.wav and sound1.wav)
-IIR Filters
-Windowing and FIR Filters
-Discrete-Time Filtering (soundExp6.wav)
+### DFT and Its Properties
+
+### Analysis of Discrete-Time Systems
+
+### Quantization and Phase Shift (sound.wav and sound1.wav)
+
+### IIR Filters
+
+### Windowing and FIR Filters
+
+### Discrete-Time Filtering (soundExp6.wav)
