@@ -2,7 +2,7 @@
 
 ## Project 1
 
-Simulation of EM Wave Propagation
+### Simulation of EM Wave Propagation
 
 Executive Summary
 The main purpose of this simulation project is to numerically solve the time-domain 
