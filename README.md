@@ -86,3 +86,12 @@ Steps:
 
 Remember to replace the placeholder melody with your desired equalized sound sequence. Students can further 
 enhance this project by adding more bands, improving the equalization algorithm, and documenting their findings.
+
+## Project 3
+
+DFT and Its Properties
+Analysis of Discrete-Time Systems
+Quantization and Phase Shift (sound.wav and sound1.wav)
+IIR Filters
+Windowing and FIR Filters
+Discrete-Time Filtering (soundExp6.wav)
