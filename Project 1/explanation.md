@@ -20,9 +20,11 @@ Overall, MATLAB provides a comprehensive platform for modeling and visualizing
 electromagnetic fields, which is why it is a popular choice among engineers and researchers in the 
 field of electromagnetics. 
 
-second code Permittivity Has Been Changed 2.5 Inside of 50 cm Radius Circle
+electromagnetic_waves_1 - Free Space
 
-Third Part: (Permittivity Has Been Changed 3.1 Outside of 50 cm Radius Circle) 
+electromagnetic_waves_2 - Permittivity Has Been Changed 2.5 Inside of 50 cm Radius Circle
+
+electromagnetic_waves_3 - Permittivity Has Been Changed 3.1 Outside of 50 cm Radius Circle
 
 The MATLAB code is a comprehensive tool for simulating the propagation of an electric field 
 using the Finite Difference Time Domain (FDTD) method. The simulation dynamically updates the 
