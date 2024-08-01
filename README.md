@@ -53,3 +53,36 @@ where 𝑡 is a time delay and 𝛿 is a parameter that controls the width of th
 the algorithm to be unstable (diverges). As a rule, ∆𝑡 ≤ 0.5∆/𝑐, for 2D problems.  
 - Run the algorithm for the required time duration, observe the wave propagation and 
 make studies and analyses. 
+
+## Project 2
+
+Project Overview: 
+- Record Sound: Capture audio using a microphone or sound sensor. 
+- Equalization: Implement a three-band equalizer (bass, midrange, and treble) to adjust the sound frequencies. 
+- Processing: Apply equalization settings to the recorded sound. 
+- Output: Play the processed sound through a speaker connected to the Computer
+All the recording, processing and playing parts will be performed by using MATLAB (Arduino, Raspberry  Pi, STM32 cards won't be used)
+
+Components Needed: 
+- MATLAB 
+- Microphone or sound sensor 
+- Speaker or buzzer 
+
+Steps: 
+- Audio Input: 
+  - Connect the microphone or sound sensor to a computer. You should capture sound by using subroutines. 
+- Equalization: 
+  - Implement a three-band equalizer in MATLAB: 
+    - Bass: Adjust low-frequency components. 
+    - Midrange: Modify mid-frequency tones. 
+    - Treble: Control high-frequency sounds. 
+  - Use digital signal processing techniques to apply equalization settings. 
+- Processing and Storage: 
+  - Process the recorded audio based on equalizer settings. 
+  - Store the processed audio in memory (e.g., an array). 
+- Audio Output: 
+  - Connect a speaker or buzzer to a digital output 
+  - Adjust the duration and frequency of each note to match the equalizer settings. 
+
+Remember to replace the placeholder melody with your desired equalized sound sequence. Students can further 
+enhance this project by adding more bands, improving the equalization algorithm, and documenting their findings.
