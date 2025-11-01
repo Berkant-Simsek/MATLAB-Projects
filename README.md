@@ -1,5 +1,7 @@
 # MATLAB-Projects
 
+
+
 ## Project 1
 
 ### Simulation of EM Wave Propagation
@@ -54,6 +56,8 @@ the algorithm to be unstable (diverges). As a rule, ∆𝑡 ≤ 0.5∆/𝑐, for
 - Run the algorithm for the required time duration, observe the wave propagation and 
 make studies and analyses. 
 
+
+
 ## Project 2
 
 Project Overview: 
@@ -87,6 +91,8 @@ Steps:
 Remember to replace the placeholder melody with your desired equalized sound sequence. Students can further 
 enhance this project by adding more bands, improving the equalization algorithm, and documenting their findings.
 
+
+
 ## Project 3
 
 ### DFT and Its Properties
@@ -100,3 +106,19 @@ enhance this project by adding more bands, improving the equalization algorithm,
 ### Windowing and FIR Filters
 
 ### Discrete-Time Filtering (soundExp6.wav)
+
+
+
+## Project 4
+
+### Array Operations and Statistical Computations
+
+### Random Impulse Response and Convolution
+
+### Discrete-Time Convolution and Impulse Response
+
+### Fourier Series
+
+### Band-Pass and Band-Reject Filter Design
+
+### Sampling
