@@ -122,3 +122,11 @@ enhance this project by adding more bands, improving the equalization algorithm,
 ### Band-Pass and Band-Reject Filter Design
 
 ### Sampling
+
+
+
+## Project 5
+
+### Thin Film Optics and Wave Propagation
+
+### Photodetectors and Optoelectronic Materials
