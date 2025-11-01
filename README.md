@@ -115,7 +115,7 @@ enhance this project by adding more bands, improving the equalization algorithm,
 
 ### Random Impulse Response and Convolution
 
-### Discrete-Time Convolution and Impulse Response
+### Discrete-Time Convolution and Impulse Response (input.wav)
 
 ### Fourier Series
 
