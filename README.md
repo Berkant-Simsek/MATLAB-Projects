@@ -130,3 +130,29 @@ enhance this project by adding more bands, improving the equalization algorithm,
 ### Thin Film Optics and Wave Propagation
 
 ### Photodetectors and Optoelectronic Materials
+
+
+
+## Project 6
+
+### Exponential Fourier Series
+
+### Low Pass Filter
+
+### AM Signal and DSB-SC AM Signal
+
+### USB and LSB and QAM
+
+### FM Signal
+
+### Downsampling
+
+### Raised Cosine Pulse Shaping and Bandwidth Analysis
+
+### Binary Detection over Gaussian Channels Theory and Simulation
+
+### Binary Detection over AWGN Channels
+
+### BPSK and MPAM (simulink_model_q1_v1.slx and simulink_model_q2.slx)
+
+### M-QAM and M-PSK (Q1_.slx and Q2_.slx)
